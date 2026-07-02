@@ -3,7 +3,10 @@ collection:
 manifest:
   - https://iiif.vam.ac.uk/collections/O70222/manifest.json
   - https://iiif.vam.ac.uk/collections/O89610/manifest.json
-  - 
+  - https://iiif.vam.ac.uk/collections/O1262514/manifest.json
+  - https://iiif.vam.ac.uk/collections/O245485/manifest.json
+  - https://media.getty.edu/iiif/manifest/3/08543119-5140-40fe-bc1d-31a1d88f54cb
+  - https://media.getty.edu/iiif/manifest/3/8e0e1431-b135-453d-b2eb-de2ff6a65115
 metadata:
   - Subject
   - Date
