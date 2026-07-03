@@ -1,12 +1,18 @@
 title: Awesome Manuscript Reconstructions
 collection:
+  - https://vanda.github.io/awesome-manuscripts/manifests/DMR/01/collection.json
 manifest:
   - https://iiif.vam.ac.uk/collections/O70222/manifest.json
+  - https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:4211596:MANIFEST:3
   - https://iiif.vam.ac.uk/collections/O89610/manifest.json
   - https://iiif.vam.ac.uk/collections/O1262514/manifest.json
   - https://iiif.vam.ac.uk/collections/O245485/manifest.json
   - https://media.getty.edu/iiif/manifest/3/08543119-5140-40fe-bc1d-31a1d88f54cb
   - https://media.getty.edu/iiif/manifest/3/8e0e1431-b135-453d-b2eb-de2ff6a65115
+  - https://iiif.vam.ac.uk/collections/O1262539/manifest.json
+  - https://iiif.nypl.org/iiif/3/427462/info.json
+  - https://iiif.vam.ac.uk/collections/O1012757/manifest.json
+  - https://iiif.vam.ac.uk/collections/O93999/manifest.json
 metadata:
   - Subject
   - Date
