@@ -3,6 +3,10 @@ collection:
   - https://vanda.github.io/awesome-manuscripts/manifests/DMR/01/collection.json
 manifest:
   - https://iiif.vam.ac.uk/collections/O70222/manifest.json
+  - https://media.getty.edu/iiif/manifest/3/73b043f2-8fee-4393-b67d-de51fd76a3cf
+  - https://media.getty.edu/iiif/manifest/3/d6f3aba9-79e7-4932-9e28-47a404f9f98b
+  - https://media.getty.edu/iiif/manifest/3/e44ba72f-d452-439d-817f-7867610028df
+  - https://media.getty.edu/iiif/manifest/3/6ce5e81d-ef19-4bb2-aff2-1a90efc76448
   - https://nrs.lib.harvard.edu/URN-3:FHCL.HOUGH:4211596:MANIFEST:3
   - https://iiif.vam.ac.uk/collections/O89610/manifest.json
   - https://iiif.vam.ac.uk/collections/O1262514/manifest.json
