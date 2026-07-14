@@ -17,6 +17,9 @@ manifest:
   - https://iiif.nypl.org/iiif/3/427462/info.json
   - https://iiif.vam.ac.uk/collections/O1012757/manifest.json
   - https://iiif.vam.ac.uk/collections/O93999/manifest.json
+  - https://iiif.vam.ac.uk/collections/O125653/manifest.json
+  - https://iiif.vam.ac.uk/collections/O125653/manifest.json
+  - https://api.irht.cnrs.fr/ark:/63955/f4u7iavzf7tk/manifest.json
 metadata:
   - Subject
   - Date
