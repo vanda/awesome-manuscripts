@@ -18,8 +18,12 @@ manifest:
   - https://iiif.vam.ac.uk/collections/O1012757/manifest.json
   - https://iiif.vam.ac.uk/collections/O93999/manifest.json
   - https://iiif.vam.ac.uk/collections/O125653/manifest.json
-  - https://iiif.vam.ac.uk/collections/O125653/manifest.json
+  - https://iiif.vam.ac.uk/collections/O93659/manifest.json
+  - https://iiif.vam.ac.uk/collections/O93653/manifest.json
+  - https://iiif.vam.ac.uk/collections/O1025983/manifest.json
   - https://api.irht.cnrs.fr/ark:/63955/f4u7iavzf7tk/manifest.json
+  - https://iiif.vam.ac.uk/collections/O93863/manifest.json
+  - https://api.irht.cnrs.fr/ark:/63955/fkc0o8bwuuse/manifest.json
 metadata:
   - Subject
   - Date
